@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <small>
       <a
-        href="https://github.com/marinaban/weather-app-take-two"
+        href="https://github.com/marinaban/react-weather-app"
         target="_blank"
         rel="noreferrer"
       >
